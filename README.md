@@ -12,9 +12,9 @@ The algorithm checks the timings every 5 seconds and if the timing of medicine m
 
 ## Packages used
 
-java.util
-java.io
-java.swing
+java.util \n
+java.io \n
+java.swing \n
 java.swing.table
 java.awt
 java.awt.event
