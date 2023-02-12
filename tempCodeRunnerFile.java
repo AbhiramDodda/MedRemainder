@@ -1,1 +1,0 @@
-int hour = gcalender.get(Calendar.HOUR);
