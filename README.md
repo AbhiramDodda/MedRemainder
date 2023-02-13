@@ -6,9 +6,10 @@
 
 ## Algorithm
 
-#### When the application is opened the interface shows the user the list of medicines and timings stored by the user. 
-#### User can add new medicine, edit existing medicines or delete medicines.
-#### The algorithm checks the timings every 5 seconds and if the timing of medicine matches with the present time in real time then a 10 second sound is alarmed.
+Opening the interface the user gets a blank page with options to add modify and delete medicine.  
+Once the user adds a medicine it will be added to the list displaying name and time.  
+If the user wants to modify a medicine he/she can do so by selecting the medicine.  
+They will be reminded by a 10 second sound.
 
 ## Packages used
 1. java.util 
