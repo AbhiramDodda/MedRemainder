@@ -21,6 +21,8 @@
 
 ## Features to be added
 
-#### A button to stop alarm on user click
-#### Facility to store images of medicine to identify them quickly
-#### Highlighting of the medicine to be taken during the alarm
+A button to stop alarm on user click  
+Facility to store images of medicine to identify them quickly  
+Highlighting of the medicine to be taken during the alarm  
+
+
