@@ -11,14 +11,13 @@
 #### The algorithm checks the timings every 5 seconds and if the timing of medicine matches with the present time in real time then a 10 second sound is alarmed.
 
 ## Packages used
-
-#### java.util 
-#### java.io 
-#### java.swing 
-#### java.swing.table
-#### java.awt
-#### java.awt.event
-#### java.sound.sampled
+1. java.util 
+2. java.io 
+3. java.swing 
+4. java.swing.table
+5. java.awt
+6. java.awt.event
+7. java.sound.sampled
 
 ## Features to be added
 
