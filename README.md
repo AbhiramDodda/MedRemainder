@@ -1,4 +1,4 @@
-# MedRemainder
+# MedReminder
 
 ## An application designed with senior citizens in mind to help them take their medicines on time
 
