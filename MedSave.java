@@ -1,3 +1,9 @@
+/**********************************************************************************************
+                                        MedReminder
+   Stores time and medicine name in a mash map and chekcs for time matching every 58 seconds
+   alarm plays for 10 seconds
+   Last modified - 2
+   *********************************************************************************************/
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
